@@ -1,2 +1,2 @@
-console.log("TCS ");
+console.log("TCS");
 console.log("Rakuten");
